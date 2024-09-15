@@ -22,4 +22,4 @@ prophet~=1.1.5
 gymnasium~=0.29.1
 hyperopt~=0.2.7
 websocket-client~=1.8.0
-git+https://github.com/venantvr/Python.Rsi.Tools.git
+git+https://github.com/venantvr/Python.Rsi.Tools.git#egg=venantvr
