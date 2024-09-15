@@ -7,23 +7,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d459ea3c-d9df-404b-a2da-a4ff09638922" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="d459ea3c-d9df-404b-a2da-a4ff09638922" name="Changes" comment="Namespace...">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apprentissage/bootstrap/machine_learning.py" beforeDir="false" afterPath="$PROJECT_DIR$/apprentissage/bootstrap/machine_learning.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apprentissage/events/hyperopt_event.py" beforeDir="false" afterPath="$PROJECT_DIR$/apprentissage/events/hyperopt_event.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apprentissage/events/knn_event.py" beforeDir="false" afterPath="$PROJECT_DIR$/apprentissage/events/knn_event.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apprentissage/events/prophet_event.py" beforeDir="false" afterPath="$PROJECT_DIR$/apprentissage/events/prophet_event.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apprentissage/events/regression_event.py" beforeDir="false" afterPath="$PROJECT_DIR$/apprentissage/events/regression_event.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apprentissage/trainers/generic_trainer.py" beforeDir="false" afterPath="$PROJECT_DIR$/apprentissage/trainers/generic_trainer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apprentissage/trainers/hyperopt_trainer.py" beforeDir="false" afterPath="$PROJECT_DIR$/apprentissage/trainers/hyperopt_trainer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apprentissage/trainers/knn_trainer.py" beforeDir="false" afterPath="$PROJECT_DIR$/apprentissage/trainers/knn_trainer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apprentissage/trainers/prophet_trainer.py" beforeDir="false" afterPath="$PROJECT_DIR$/apprentissage/trainers/prophet_trainer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apprentissage/trainers/regression_trainer.py" beforeDir="false" afterPath="$PROJECT_DIR$/apprentissage/trainers/regression_trainer.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,22 +19,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2m6lgbe4vxhe7Vmc1P8O1E11qVv" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/home/rvv/PycharmProjects/Python.Rsi.Framework",
-    "run.code.analysis.last.selected.profile": "pProject Default"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/rvv/PycharmProjects/Python.Rsi.Framework&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -65,6 +51,19 @@
       <option name="presentableId" value="Default" />
       <updated>1726405018807</updated>
     </task>
+    <task id="LOCAL-00001" summary="Namespace...">
+      <option name="closed" value="true" />
+      <created>1726405918380</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726405918380</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Namespace..." />
+    <option name="LAST_COMMIT_MESSAGE" value="Namespace..." />
   </component>
 </project>
