@@ -7,34 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1325e4b-59b1-462d-b435-8ed1bd23d83c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Python.Rsi.ML.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apprentissage/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apprentissage/events/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apprentissage/events/hyperopt_event.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apprentissage/events/knn_event.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apprentissage/events/prophet_event.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apprentissage/events/regression_event.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apprentissage/machine_learning.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apprentissage/trainers/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apprentissage/trainers/generic_trainer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apprentissage/trainers/hyperopt_trainer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apprentissage/trainers/knn_trainer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apprentissage/trainers/prophet_trainer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apprentissage/trainers/regression_trainer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apprentissage/transform_result.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apprentissage/types.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
-    </list>
+    <list default="true" id="e1325e4b-59b1-462d-b435-8ed1bd23d83c" name="Changes" comment="First commit..." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -105,6 +78,19 @@
       <option name="presentableId" value="Default" />
       <updated>1726399043257</updated>
     </task>
+    <task id="LOCAL-00001" summary="First commit...">
+      <option name="closed" value="true" />
+      <created>1726400218207</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726400218207</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit..." />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit..." />
   </component>
 </project>
