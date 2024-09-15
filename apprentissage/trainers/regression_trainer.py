@@ -1,8 +1,8 @@
 import pandas as pd
 from sklearn.linear_model import LinearRegression
 from sklearn.model_selection import train_test_split
-from venantvr.business.bot_currency_pair import BotCurrencyPair
-from venantvr.types.types_alias import GateioTimeFrame
+from framework.business.bot_currency_pair import BotCurrencyPair
+from framework.types.types_alias import GateioTimeFrame
 
 from apprentissage.trainers.generic_trainer import GenericTrainer
 

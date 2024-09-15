@@ -1,4 +1,4 @@
-from venantvr.events.generic_event import GenericEvent
+from framework.events.generic_event import GenericEvent
 
 
 class ProphetEvent(GenericEvent):

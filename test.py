@@ -1,4 +1,4 @@
-from venantvr.types.types_alias import GateioTimeFrame
+from framework.types.types_alias import GateioTimeFrame
 
 from apprentissage.bootstrap.machine_learning import MachineLearning
 

@@ -1,12 +1,12 @@
 import json
 
 from hyperopt import hp  # Importation de Hyperopt pour la définition des espaces de recherche d'hyperparamètres
-from venantvr.business.bot_currency_pair import BotCurrencyPair
-from venantvr.business.gateio_proxy import GateioProxy
-from venantvr.dataframes.dataframes_utils import set_timestamp_as_index
-from venantvr.logs.logs_utils import logger
-from venantvr.tooling.tooling_utils import convert_gateio_timeframe_to_pandas, file_exists
-from venantvr.types.types_alias import GateioTimeFrame, PandasTimeFrame
+from framework.business.bot_currency_pair import BotCurrencyPair
+from framework.business.gateio_proxy import GateioProxy
+from framework.dataframes.dataframes_utils import set_timestamp_as_index
+from framework.logs.logs_utils import logger
+from framework.tooling.tooling_utils import convert_gateio_timeframe_to_pandas, file_exists
+from framework.types.types_alias import GateioTimeFrame, PandasTimeFrame
 
 from apprentissage.events.hyperopt_event import HyperoptEvent
 from apprentissage.bootstrap.machine_learning import MachineLearning

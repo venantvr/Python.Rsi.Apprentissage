@@ -3,11 +3,11 @@ from joblib import load, dump
 from prophet import Prophet
 from sklearn.linear_model import LinearRegression
 from sklearn.neighbors import KNeighborsClassifier
-from venantvr.business.bot_currency_pair import BotCurrencyPair
-from venantvr.business.gateio_proxy import GateioProxy
-from venantvr.logs.logs_utils import logger
-from venantvr.tooling.tooling_utils import file_exists
-from venantvr.types.types_alias import GateioTimeFrame
+from framework.business.bot_currency_pair import BotCurrencyPair
+from framework.business.gateio_proxy import GateioProxy
+from framework.logs.logs_utils import logger
+from framework.tooling.tooling_utils import file_exists
+from framework.types.types_alias import GateioTimeFrame
 
 
 # La classe GenericTrainer fournit une structure générale pour entraîner différents modèles de machine learning

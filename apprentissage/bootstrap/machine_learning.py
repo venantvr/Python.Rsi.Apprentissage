@@ -5,9 +5,9 @@ import numpy as np
 from hyperopt import Trials, fmin, tpe
 from pandas import DataFrame
 from sklearn.preprocessing import StandardScaler
-from venantvr.business.bot_currency_pair import BotCurrencyPair
-from venantvr.logs.logs_utils import logger
-from venantvr.types.types_alias import GateioTimeFrame
+from framework.business.bot_currency_pair import BotCurrencyPair
+from framework.logs.logs_utils import logger
+from framework.types.types_alias import GateioTimeFrame
 
 from apprentissage.trainers.knn_trainer import KnnTrainer
 from apprentissage.bootstrap.transform_result import TransformResult

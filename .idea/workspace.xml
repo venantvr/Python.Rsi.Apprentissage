@@ -7,7 +7,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1325e4b-59b1-462d-b435-8ed1bd23d83c" name="Changes" comment="First commit..." />
+    <list default="true" id="d459ea3c-d9df-404b-a2da-a4ff09638922" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apprentissage/bootstrap/machine_learning.py" beforeDir="false" afterPath="$PROJECT_DIR$/apprentissage/bootstrap/machine_learning.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apprentissage/events/hyperopt_event.py" beforeDir="false" afterPath="$PROJECT_DIR$/apprentissage/events/hyperopt_event.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apprentissage/events/knn_event.py" beforeDir="false" afterPath="$PROJECT_DIR$/apprentissage/events/knn_event.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apprentissage/events/prophet_event.py" beforeDir="false" afterPath="$PROJECT_DIR$/apprentissage/events/prophet_event.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apprentissage/events/regression_event.py" beforeDir="false" afterPath="$PROJECT_DIR$/apprentissage/events/regression_event.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apprentissage/trainers/generic_trainer.py" beforeDir="false" afterPath="$PROJECT_DIR$/apprentissage/trainers/generic_trainer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apprentissage/trainers/hyperopt_trainer.py" beforeDir="false" afterPath="$PROJECT_DIR$/apprentissage/trainers/hyperopt_trainer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apprentissage/trainers/knn_trainer.py" beforeDir="false" afterPath="$PROJECT_DIR$/apprentissage/trainers/knn_trainer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apprentissage/trainers/prophet_trainer.py" beforeDir="false" afterPath="$PROJECT_DIR$/apprentissage/trainers/prophet_trainer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apprentissage/trainers/regression_trainer.py" beforeDir="false" afterPath="$PROJECT_DIR$/apprentissage/trainers/regression_trainer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,11 +33,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 1
-}</component>
-  <component name="ProjectId" id="2m6ZZj4hs12LG9OxwvWU3vhIslT" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2m6lgbe4vxhe7Vmc1P8O1E11qVv" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -28,45 +45,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/home/rvv/PycharmProjects/Python.Rsi.Apprentissage/bootstrap",
+    "last_opened_file_path": "/home/rvv/PycharmProjects/Python.Rsi.Framework",
     "run.code.analysis.last.selected.profile": "pProject Default"
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/bootstrap" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/venantvr" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/apprentissage" />
-      <recent name="$PROJECT_DIR$/bootstrap" />
-    </key>
-  </component>
-  <component name="RunManager">
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
-      <module name="Python.Rsi.Apprentissage" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -77,49 +59,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e1325e4b-59b1-462d-b435-8ed1bd23d83c" name="Changes" comment="" />
-      <created>1726399043257</created>
+      <changelist id="d459ea3c-d9df-404b-a2da-a4ff09638922" name="Changes" comment="" />
+      <created>1726405018807</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1726399043257</updated>
+      <updated>1726405018807</updated>
     </task>
-    <task id="LOCAL-00001" summary="First commit...">
-      <option name="closed" value="true" />
-      <created>1726400218207</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1726400218207</updated>
-    </task>
-    <task id="LOCAL-00002" summary="First commit...">
-      <option name="closed" value="true" />
-      <created>1726400309493</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1726400309493</updated>
-    </task>
-    <task id="LOCAL-00003" summary="First commit...">
-      <option name="closed" value="true" />
-      <created>1726401781413</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1726401781413</updated>
-    </task>
-    <task id="LOCAL-00004" summary="First commit...">
-      <option name="closed" value="true" />
-      <created>1726402235808</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1726402235808</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
     <servers />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="First commit..." />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit..." />
   </component>
 </project>

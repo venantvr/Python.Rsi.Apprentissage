@@ -1,9 +1,9 @@
 import numpy as np
 from prophet import Prophet
-from venantvr.business.bot_currency_pair import BotCurrencyPair
-from venantvr.dataframes.temporary_columns_manager import TemporaryColumnsManager
-from venantvr.tooling.tooling_utils import list_diff
-from venantvr.types.types_alias import GateioTimeFrame
+from framework.business.bot_currency_pair import BotCurrencyPair
+from framework.dataframes.temporary_columns_manager import TemporaryColumnsManager
+from framework.tooling.tooling_utils import list_diff
+from framework.types.types_alias import GateioTimeFrame
 
 from apprentissage.trainers.generic_trainer import GenericTrainer
 from apprentissage.bootstrap.types import MlTranformLambda
