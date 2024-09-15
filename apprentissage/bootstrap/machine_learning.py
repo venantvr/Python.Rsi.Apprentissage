@@ -10,8 +10,8 @@ from venantvr.logs.logs_utils import logger
 from venantvr.types.types_alias import GateioTimeFrame
 
 from apprentissage.trainers.knn_trainer import KnnTrainer
-from apprentissage.transform_result import TransformResult
-from apprentissage.types import MlTranformLambda, HyperoptLambda
+from apprentissage.bootstrap.transform_result import TransformResult
+from apprentissage.bootstrap.types import MlTranformLambda, HyperoptLambda
 
 
 class MachineLearning:

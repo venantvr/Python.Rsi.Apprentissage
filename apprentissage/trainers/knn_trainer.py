@@ -5,7 +5,7 @@ from venantvr.tooling.tooling_utils import list_diff
 from venantvr.types.types_alias import GateioTimeFrame
 
 from apprentissage.trainers.generic_trainer import GenericTrainer
-from apprentissage.types import MlTranformLambda
+from apprentissage.bootstrap.types import MlTranformLambda
 
 
 # La classe KnnTrainer hérite de GenericTrainer et est utilisée pour entraîner et prédire des modèles KNN (K-nearest neighbors).

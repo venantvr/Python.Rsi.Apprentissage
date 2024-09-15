@@ -9,7 +9,7 @@ from venantvr.tooling.tooling_utils import convert_gateio_timeframe_to_pandas, f
 from venantvr.types.types_alias import GateioTimeFrame, PandasTimeFrame
 
 from apprentissage.events.hyperopt_event import HyperoptEvent
-from apprentissage.machine_learning import MachineLearning
+from apprentissage.bootstrap.machine_learning import MachineLearning
 
 
 # La classe HyperoptTrainer permet d'optimiser un modèle de trading via la bibliothèque Hyperopt

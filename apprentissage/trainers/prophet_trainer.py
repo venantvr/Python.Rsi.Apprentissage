@@ -6,7 +6,7 @@ from venantvr.tooling.tooling_utils import list_diff
 from venantvr.types.types_alias import GateioTimeFrame
 
 from apprentissage.trainers.generic_trainer import GenericTrainer
-from apprentissage.types import MlTranformLambda
+from apprentissage.bootstrap.types import MlTranformLambda
 
 
 # Classe ProphetTrainer pour entraîner un modèle Prophet et effectuer des prédictions basées sur le RSI d'une paire de devises.

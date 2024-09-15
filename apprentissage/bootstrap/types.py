@@ -4,7 +4,7 @@ from typing import Callable
 import psutil
 from pandas import DataFrame
 
-from apprentissage.transform_result import TransformResult
+from apprentissage.bootstrap.transform_result import TransformResult
 
 MlTranformLambda = Callable[[DataFrame], TransformResult]
 HyperoptLambda = Callable[[dict], float | int]
