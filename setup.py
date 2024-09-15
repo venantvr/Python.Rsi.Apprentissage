@@ -8,7 +8,7 @@ setup(
     description='Une librairie Python simple avec une classe Test dans le namespace caching',
     long_description=open('README.md').read(),  # Description longue, souvent le contenu de README.md
     long_description_content_type='text/markdown',  # Type de contenu pour la longue description
-    url='https://github.com/venantvr/Python.Rsi.ML.git',  # URL du projet (par exemple, GitHub)
+    url='https://github.com/venantvr/Python.Rsi.Apprentissage.git',  # URL du projet (par exemple, GitHub)
     packages=find_namespace_packages(include=['apprentissage.*']),  # Trouve tous les packages dans le répertoire courant
     classifiers=[
         'Programming Language :: Python :: 3',  # Compatible avec Python 3
