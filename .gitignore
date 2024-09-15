@@ -1,0 +1,7 @@
+/.venv/
+/.idea/
+/.idea/workspace.xml
+/.benchmarks/
+
+*.log
+*.db
