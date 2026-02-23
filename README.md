@@ -29,4 +29,4 @@ model.train(data)
 
 ## Stack
 
-[![Stack](https://skillicons.dev/icons?i=py,sklearn,git&theme=dark)](https://skillicons.dev)
+[![Stack](https://skillicons.dev/icons?i=py,sklearn&theme=dark)](https://skillicons.dev)
