@@ -26,3 +26,7 @@ from apprentissage.classification import Classification
 model = Classification()
 model.train(data)
 ```
+
+## Stack
+
+[![Stack](https://skillicons.dev/icons?i=py,sklearn,git&theme=dark)](https://skillicons.dev)
